@@ -1,0 +1,2 @@
+- 👋 Hi, Welcome to my Portfolio.
+- 👀 I’m Emad a Data Scienctist.
