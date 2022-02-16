@@ -1,2 +1,2 @@
-- 👋 Hi, Welcome to my Portfolio.
-- 👀 I’m Emad a Data Scienctist.
+- 👋 Hi, Welcome to my Github.
+- 👀 Hope you are doing well! I’m Emad a self-learned Data Scienctist.
