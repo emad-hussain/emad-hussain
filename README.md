@@ -1,5 +1,5 @@
-### - Hi there 👋, Welcome to my Github.
+### - Hi there 👋, Welcome to my Github Profile.
 
-### - Hope you are doing well. I’m Emad, a self-learned Data Scientist.
+### - Hope you are doing well. I’m Emad, an aspiring IT professional.
 
-### - Wanna check my Projects ? Please navigate to my Portfolio [here](https://github.com/emad-hussain/Portfolio)
+### - Wanna check my Projects ? Please navigate to my Projects section [here](https://github.com/emad-hussain?tab=repositories)
